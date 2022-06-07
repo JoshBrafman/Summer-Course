@@ -1,0 +1,26 @@
+html {
+  font-size: 50px; 
+  font-family: "Open Sans", sans-serif; 
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif; 
+}
+html {
+  background-color: #F61C1C;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  width: 50%;
+}
+<img src="images/july.jpg" style="width:2em; height:3em;" />
+<img src="images/june.jpg" style="width:2em; height:3em;" />
